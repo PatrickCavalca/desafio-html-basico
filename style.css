@@ -1,0 +1,38 @@
+.cabecalho{
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.moda{
+    background-color: #BB86FC;
+    color: aliceblue;
+
+
+}
+
+.casa{
+    background-color: #00C4B4;
+    color: aliceblue;
+
+
+
+}
+
+.linha-tabela{
+    background-color: #424250;
+    color: aliceblue;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    
+
+
+}
+
+table{
+    
+    width: 30%;
+
+}
